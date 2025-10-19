@@ -1,0 +1,12 @@
+{
+  "name": "idl-ci-tests",
+  "version": "1.0.0",
+  "description": "Tests unitaires avec Jest pour le devoir IDL",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
